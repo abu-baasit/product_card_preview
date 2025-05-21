@@ -61,12 +61,21 @@ h1 {
     width:82%;
     font-weight: 700;
  }
- .price {
+ .price-product {
     display:flex;
     justify-content: center;
     align-items: center;
     gap:10px;
     margin-bottom: 1rem;
+    font-family: 'Fraunces',sans-serif;
+    width:65%;
+    font-weight: bolder;
+    font-size: 30px;
+
+ }
+ .discount {
+    font-weight: 400;
+    font-size: 16px;
  }
  button {
     width:90%;
